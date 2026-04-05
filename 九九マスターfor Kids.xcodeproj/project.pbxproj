@@ -6,8 +6,15 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		4CA7CE762EFC2FF0004030BA /* bingo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4CA7CE742EFC2FF0004030BA /* bingo.mp3 */; };
+		4CA7CE772EFC2FF0004030BA /* pupu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4CA7CE752EFC2FF0004030BA /* pupu.mp3 */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		4C21BD2B2EFBA98A00EFED32 /* 九九マスターfor Kids.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "九九マスターfor Kids.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4CA7CE742EFC2FF0004030BA /* bingo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bingo.mp3; sourceTree = "<group>"; };
+		4CA7CE752EFC2FF0004030BA /* pupu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pupu.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -29,10 +36,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4C21BD222EFBA98A00EFED32 = {
+		4C0BB93F2EFC2F02004E6696 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				4C21BD2D2EFBA98A00EFED32 /* 九九マスターfor Kids */,
+				4CA7CE742EFC2FF0004030BA /* bingo.mp3 */,
+				4CA7CE752EFC2FF0004030BA /* pupu.mp3 */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		4C21BD222EFBA98A00EFED32 = {
+			isa = PBXGroup;
+			children = (
+				4C0BB93F2EFC2F02004E6696 /* Resources */,
 				4C21BD2C2EFBA98A00EFED32 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -109,6 +126,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4CA7CE762EFC2FF0004030BA /* bingo.mp3 in Resources */,
+				4CA7CE772EFC2FF0004030BA /* pupu.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -32,4 +32,5 @@
 ## 📖 实现逻辑 / Implementation / 実装の詳細
 - **State Management:** 利用 `@StateObject` 和 `@Published` 实时驱动 UI 更新。
 - **UX Optimization:** 针对儿童用户，优化了气泡上升速度（2.8 - 4.5）与碰撞判定线。
-アプリのスクリーンショット 👇
+## アプリのスクリーンショット 👇
+https://github.com/luzhihao21/KukuMasterForKids/issues/1

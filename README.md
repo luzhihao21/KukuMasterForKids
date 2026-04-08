@@ -34,3 +34,5 @@
 - **UX Optimization:** 针对儿童用户，优化了气泡上升速度（2.8 - 4.5）与碰撞判定线。
 ## アプリのスクリーンショット 👇
 https://github.com/luzhihao21/KukuMasterForKids/issues/1
+## 動画（約1分16秒）　👇
+https://youtube.com/shorts/XWGGoektRMg?si=LJbzjygvGFq1uUpG
